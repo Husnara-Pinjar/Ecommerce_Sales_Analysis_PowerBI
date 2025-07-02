@@ -34,9 +34,9 @@ This project focuses on analyzing online sales performance for Madhav store. The
   
   4.Total Quantity by Category.
   
-  5. Top 5 profitable Sub-Category.
+  5.Top 5 profitable Sub-Category.
 
-  6. Top Customers with more amount spent.
+  6.Top Customers with more amount spent.
      
 ## Insights and Results:
 •	Developed an interactive dashboard to analyse 438k total amount, 37k total profit, 5,615 total quantities as the sales trends.
