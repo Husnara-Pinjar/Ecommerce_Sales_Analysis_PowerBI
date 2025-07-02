@@ -32,7 +32,7 @@ This project focuses on analyzing online sales performance for Madhav store. The
   
   3.Monthwise Profit
   
-  4.Total Quantity by Category
+  4.Total Quantity by Category.
   
   5. Top 5 profitable Sub-Category.
 
